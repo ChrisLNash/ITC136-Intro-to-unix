@@ -1,6 +1,6 @@
 #This is a comment.
 
-#here are some notes on the simple navigation commands on a linux bash
+#here are some notes on the simple navigation commands on a linux bash terminal
 
 #_______________________________________________________________________#
 
