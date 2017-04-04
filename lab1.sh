@@ -15,4 +15,10 @@ cd .. #travel 'back' in a file directory (navigation)
 
 date #gives me a timestamp of the machine (when)
 
-#__________________________________________________________________________#
+#==========================================================================#
+
+# working with vi on the bash #
+#!/bin/sh                                                                       
+echo "this is a first test"  
+
+#==============================#
