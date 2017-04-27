@@ -1,0 +1,144 @@
+    1  sudo apt update
+    2  sudo apt install git
+    3  cd ~
+    4  git clone https://github.com/ChrisLNash/ITC136-Intro-to-unix.git
+    5  git
+    6  git clone git@github.com:ChrisLNash/ITC136-Intro-to-unix.git
+    7  git exit
+    8  git -- helo
+    9  git --help
+   10  quit
+   11  exit
+   12  git
+   13  git init
+   14  git ..
+   15  git
+   16  git cloine
+   17  git clone
+   18  git clone git@github.com:ChrisLNash/ITC136-Intro-to-unix.git
+   19  git init --bare
+   20  git remote add origin git@github.com:ChrisLNash/ITC136-Intro-to-unix.git
+   21  git push origin master
+   22  git init
+   23  git remote add origin ssh://git@github.com:ChrisLNash/ITC136-Intro-to-unix.git
+   24  git push origin master
+   25  git push origin
+   26  git clone ssh://git@github.com:ChrisLNash/ITC136-Intro-to-unix.git
+   27  git
+   28  git init
+   29  ls
+   30  cd documents
+   31  cd Documents
+   32  mkdir itc136git
+   33  cd itc136git
+   34  git init
+   35  ls -al ~/.ssh
+   36  ls
+   37  ssh-keygen -t rsa -b 4096 -C "nashc@outlook.com"
+   38  eval "$(ssh-agent -s)"
+   39  ssh-add ~/.ssh/id_rsa
+   40  sudo apt-get install xclip
+   41  xclip -sel clip < ~/.ssh/id_rsa.pub
+   42  git clone
+   43  git add
+   44  git --ad
+   45  ls
+   46  git clone git@github.com:ChrisLNash/ITC136-Intro-to-unix.git
+   47  ls
+   48  ls ITC136-Intro-to-unix/
+   49  git config user.name 'ChrisLNash'
+   50  git user.name
+   51  git --help
+   52  history >> .../Desktop/termHist.txt
+   53  cd ~
+   54  history
+   55  history out >> /Desktop/history.out
+   56  history
+   57  history out
+   58  history out >> Desktop/history.out
+   59  history >>
+   60  history >> ..Desktop/history.out
+   61  history >> ../Desktop/history.out
+   62  git
+   63  cd Documents/
+   64  ls
+   65  cd itc136git/
+   66  pull
+   67  git pull
+   68  git
+   69  cd Documents
+   70  ls
+   71  cd itc136git/
+   72  ls
+   73  cd ITC136-Intro-to-unix/
+   74  ls
+   75  mkdir img
+   76  ls
+   77  mv
+   78  ls
+   79  git push --a
+   80  git push --all
+   81  ls
+   82  git commit
+   83  git 
+   84  git config
+   85  git commit
+   86  git config --global user.name "ChrisLNash"
+   87  git commit
+   88  git config --global user.email "nashc@outlook.com"
+   89  git login
+   90  git
+   91  git commit
+   92  git commit --all
+   93  ls
+   94  git push --all
+   95  git
+   96  git reset
+   97  git
+   98  git lgo
+   99  git log
+  100  git reset HEAD~
+  101  ls
+  102  ls /img
+  103  ls ./img
+  104  git commit -m "Fixed the deletion... I hope!"
+  105  git add --alll
+  106  git all --all
+  107  git add --all
+  108  ls
+  109  commit --all
+  110  git commit --all
+  111  git push --all
+  112  git pull
+  113  git rever HEAD~
+  114  git revert HEAD~
+  115  git commit --all
+  116  git commit --all -m "COmmit"
+  117  ls
+  118  ls ./img
+  119  git ls
+  120  git push
+  121  git
+  122  git branch 'test'
+  123  git status
+  124  git branch test
+  125  git checkout test
+  126  git status
+  127  ls
+  128  git commit -am "Added the index file on the test branch"
+  129  git commit --all "Added the index file to the test branch"
+  130  ls
+  131  git commit --all -m "Trying for the third time to commit index.html file to test branch"
+  132  git add -a
+  133  git add --all
+  134  git commit --a -m "Forgot to add all files in order to commit them to test branch"
+  135  git commit --all -m "added index.html and commited to test branch"
+  136  git status
+  137  git pull test
+  138  git merge test
+  139  git checkout brancyh
+  140  git checkout branch
+  141  git checkout
+  142  git push global --all
+  143  git push --all
+  144  history > history_for_print.txt
