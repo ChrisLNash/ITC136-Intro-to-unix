@@ -7,13 +7,6 @@
     7  git exit
     8  git -- helo
     9  git --help
-   10  quit
-   11  exit
-   12  git
-   13  git init
-   14  git ..
-   15  git
-   16  git cloine
    17  git clone
    18  git clone git@github.com:ChrisLNash/ITC136-Intro-to-unix.git
    19  git init --bare
@@ -50,15 +43,7 @@
    50  git user.name
    51  git --help
    52  history >> .../Desktop/termHist.txt
-   53  cd ~
-   54  history
-   55  history out >> /Desktop/history.out
-   56  history
-   57  history out
-   58  history out >> Desktop/history.out
-   59  history >>
-   60  history >> ..Desktop/history.out
-   61  history >> ../Desktop/history.out
+   
    62  git
    63  cd Documents/
    64  ls
