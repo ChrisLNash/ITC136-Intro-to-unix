@@ -1,0 +1,216 @@
+    1  sudo apt update
+    2  sudo apt install git
+    3  cd ~
+    4  git clone https://github.com/ChrisLNash/ITC136-Intro-to-unix.git
+    5  git
+    6  git clone git@github.com:ChrisLNash/ITC136-Intro-to-unix.git
+    7  git exit
+    8  git -- helo
+    9  git --help
+   10  quit
+   11  exit
+   12  git
+   13  git init
+   14  git ..
+   15  git
+   16  git cloine
+   17  git clone
+   18  git clone git@github.com:ChrisLNash/ITC136-Intro-to-unix.git
+   19  git init --bare
+   20  git remote add origin git@github.com:ChrisLNash/ITC136-Intro-to-unix.git
+   21  git push origin master
+   22  git init
+   23  git remote add origin ssh://git@github.com:ChrisLNash/ITC136-Intro-to-unix.git
+   24  git push origin master
+   25  git push origin
+   26  git clone ssh://git@github.com:ChrisLNash/ITC136-Intro-to-unix.git
+   27  git
+   28  git init
+   29  ls
+   30  cd documents
+   31  cd Documents
+   32  mkdir itc136git
+   33  cd itc136git
+   34  git init
+   35  ls -al ~/.ssh
+   36  ls
+   37  ssh-keygen -t rsa -b 4096 -C "nashc@outlook.com"
+   38  eval "$(ssh-agent -s)"
+   39  ssh-add ~/.ssh/id_rsa
+   40  sudo apt-get install xclip
+   41  xclip -sel clip < ~/.ssh/id_rsa.pub
+   42  git clone
+   43  git add
+   44  git --ad
+   45  ls
+   46  git clone git@github.com:ChrisLNash/ITC136-Intro-to-unix.git
+   47  ls
+   48  ls ITC136-Intro-to-unix/
+   49  git config user.name 'ChrisLNash'
+   50  git user.name
+   51  git --help
+   52  history >> .../Desktop/termHist.txt
+   53  cd ~
+   54  history
+   55  history out >> /Desktop/history.out
+   56  history
+   57  history out
+   58  history out >> Desktop/history.out
+   59  history >>
+   60  history >> ..Desktop/history.out
+   61  history >> ../Desktop/history.out
+   62  git
+   63  cd Documents/
+   64  ls
+   65  cd itc136git/
+   66  pull
+   67  git pull
+   68  git
+   69  git init
+   70  ls
+   71  ls Documents
+   72  mkdir HelloWorldGit
+   73  ls
+   74  cd HelloWorldGit
+   75  git init
+   76  git init helloworld
+   77  git init helloworld.git
+   78  ...
+   79  cd ..
+   80  cd ...
+   81  cd ..
+   82  cd root
+   83  cd ..
+   84  cd..
+   85  cd ..
+   86  ls
+   87  cd usr
+   88  ls
+   89  cd local
+   90  cd
+   91  ls
+   92  mkdir helloworld
+   93  cd helloworld
+   94  git
+   95  git init --bare helloworld.git
+   96  git branch feature
+   97  git branch
+   98  git
+   99  git checkout
+  100  git branch feature
+  101  git branch master
+  102  checkout
+  103  git checkout
+  104  git commit --all
+  105  ls
+  106  cd helloworld.git
+  107  ls
+  108  git commit --all
+  109  cd ..
+  110  ls
+  111  cd Documents
+  112  mkdir helloworld
+  113  cd helloworld
+  114  git init --bare helloworld.git
+  115  ls
+  116  git commit --all "first commit"
+  117  git commit -a
+  118  git branch feature
+  119  git push --all
+  120  ls
+  121  git branch feature
+  122  git checkout
+  123  git remote add origin git@github.com:ChrisLNash/helloworld.git
+  124  git push master
+  125  git push -u origin master
+  126  git
+  127  git repo
+  128  grep
+  129  cd ..
+  130  ls
+  131  itc136git
+  132  cd itc136git
+  133  ssh
+  134  git ssh
+  135  git --help
+  136  sudo su
+  137  cd ..
+  138  cd..
+  139  cd ..
+  140  sudo su
+  141  who
+  142  ifconfig
+  143  ifconfig | less
+  144  usr
+  145  user
+  146  users
+  147  create
+  148  adduser 
+  149  sudo su
+  150  who
+  151  ifconfig
+  152  usermod
+  153  ifconfig
+  154  /etc/
+  155  cd etc
+  156  cd /etc/
+  157  ls
+  158  cd Documents
+  159  ls
+  160  cd itc136git
+  161  ;s
+  162  ls
+  163  cd .
+  164  cd ...
+  165  cd ITC136-Intro-to-unix/`
+  166  ls
+  167  cd ITC136-Intro-to-unix
+  168  ls
+  169  git commit
+  170  git commit --all
+  171  git commit --all "moved license.txt from /img folder"
+  172  git push --all
+  173  git
+  174  git push
+  175  git push --global
+  176  git push --global --all
+  177  git push --all 
+  178  git push --global -master
+  179  git push
+  180  fetch
+  181  git fetch
+  182  git push --all
+  183  git pull
+  184  git push --all
+  185  git status
+  186  git add
+  187  git add --all
+  188  git push --all
+  189  git add
+  190  git add --all
+  191  git push 
+  192  git push --global
+  193  git push --repo
+  194  git branch
+  195  ls
+  196  git add
+  197  git add --all
+  198  git push 
+  199  git config --global push.default
+  200  git push
+  201  ls
+  202  git commit --a -m 'added license.txt'
+  203  git commit --all "moved license.txt from /img folder"
+  204  git add --all
+  205  git push --global
+  206  cd..
+  207  cd ..
+  208  sudo su
+  209  cd /etc/ssh#
+  210  cd /etc
+  211  ls
+  212  cd ssh
+  213  sudo su
+  214  adduser david
+  215  sudo su
+  216  history >> sshConnection.out
