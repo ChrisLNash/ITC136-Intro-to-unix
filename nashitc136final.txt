@@ -1,0 +1,41 @@
+    1  adduser badstudent
+    2  root
+    3  exit
+    4  history >> desktop/nash1tc136final.txt
+    5  cd desktop
+    6  cd /desktop
+    7  cd ~/desktop
+    8  xit
+    9  exit
+   10  history >> nashitc136final.txt
+   11  history >> /home/nashitc136final.txt
+   12  history > /documents/nashitc136final.txt
+   13  cd /documents
+   14  /Documents
+   15  ls
+   16  cd student
+   17  ls -l
+   18  cd desktop
+   19  cd Desktop
+   20  history > nashitc136final.txt
+    1  adduser badstudent
+    2  root
+    3  exit
+    4  history >> desktop/nash1tc136final.txt
+    5  cd desktop
+    6  cd /desktop
+    7  cd ~/desktop
+    8  xit
+    9  exit
+   10  history >> nashitc136final.txt
+   11  history >> /home/nashitc136final.txt
+   12  history > /documents/nashitc136final.txt
+   13  cd /documents
+   14  /Documents
+   15  ls
+   16  cd student
+   17  ls -l
+   18  cd desktop
+   19  cd Desktop
+   20  history > nashitc136final.txt
+   21  history >> nashitc136final.txt
